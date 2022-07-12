@@ -23,3 +23,4 @@ Feature: Payment Gateway functional test
     And The user wants to enter CVVCode as "177"
     Then The user wants to click on pay now
     And The user wants to verify messeage as "Payment successfull!"
+    
